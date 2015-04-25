@@ -1,0 +1,11 @@
+{
+  "name": "ptt-18plus",
+  "title": "PTT 自動分級確認",
+  "id": "adf6a6cb-3438-4705-8cb3-3dbf34250663",
+  "description": "根據「電腦網路內容分級處理辦法」第六條第三款規定，我已滿 18 歲，請不要浪費我的時間。",
+  "author": "Zhi-Wei Cai",
+  "homepage": "https://vox.vg/apps/ptt-18plus/",
+  "icon": "data/icon/icon.png",
+  "license": "MIT",
+  "version": "0.3"
+}
