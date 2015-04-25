@@ -16,9 +16,9 @@
 
 ###下載
 
-- [Google Chrome][Chrome] ![版本](https://img.shields.io/badge/Build-v0.1-green.svg?style=flat-square)
-- [Mozilla Firefox][Firefox] ![版本](https://img.shields.io/badge/Build-v0.3-green.svg?style=flat-square)
-- [Apple Safari][Safari] ![版本](https://img.shields.io/badge/Build-v0.1-green.svg?style=flat-square)
+- [Google Chrome][Chrome]
+- [Mozilla Firefox][Firefox]
+- [Apple Safari][Safari]
 
 [Chrome]: https://chrome.google.com/webstore/detail/ptt-自動分級確認/ekegehhnkpbgocdjdlhnmjkkgdhgdheg
 [Firefox]: https://addons.mozilla.org/en-US/firefox/addon/ptt-%E8%87%AA%E5%8B%95%E5%88%86%E7%B4%9A%E7%A2%BA%E8%AA%8D/
